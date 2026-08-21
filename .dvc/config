@@ -2,3 +2,4 @@
     remote = labstore
 ['remote "labstore"']
     url = s3://income-lab-202601726-nguyenquocbao/dvc
+    region = ap-southeast-2
